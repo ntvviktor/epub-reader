@@ -1,0 +1,35 @@
+{
+  "name": "epub-reader",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.5",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/atkinson-hyperlegible": "^4.5.11",
+    "@fontsource/jost": "^4.5.13",
+    "@fontsource/outfit": "^4.5.11",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.34",
+    "@types/react-dom": "18.0.11",
+    "epubjs": "^0.3.93",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "firebase": "^9.19.1",
+    "framer-motion": "^10.11.5",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-icons": "^4.8.0",
+    "react-redux": "^8.0.5",
+    "typescript": "5.0.4"
+  }
+}

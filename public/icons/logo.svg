@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: #8f7a68;
+            }
+
+            .cls-2 {
+            letter-spacing: 0em;
+            }
+
+            .cls-3 {
+            fill: #37261d;
+            font-family: SofiaPro-SemiBold, 'Sofia Pro';
+            font-size: 16px;
+            font-weight: 600;
+            }
+
+            .cls-4 {
+            letter-spacing: -.03em;
+            }
+
+            .cls-5 {
+            fill: #231f20;
+            }
+
+            .cls-6 {
+            fill: #66523f;
+            }
+        </style>
+    </defs>
+    <rect class="cls-6" x="48.49" y="45.99" width="14.56" height="67.61" rx=".63" ry=".63"/>
+    <rect class="cls-1" x="101.01" y="53.28" width="12.42" height="59.47" rx=".74" ry=".74"
+          transform="translate(-19.14 33.82) rotate(-16.48)"/>
+    <rect class="cls-5" x="81.98" y="56.07" width="11.03" height="57.52" rx=".74" ry=".74"/>
+    <path class="cls-5"
+          d="m44.18,113.59h-11.29c-.41,0-.74-.33-.74-.74v-47.87c0-.41.33-.74.74-.74,0,0,3.22-.35,5.65-.35s5.65.35,5.65.35c.41,0,.74.33.74.74v47.87c0,.41-.33.74-.74.74Z"/>
+    <text class="cls-3" transform="translate(66.76 35.22) rotate(90)">
+        <tspan x="0" y="0">WIL</tspan>
+        <tspan class="cls-4" x="27.22" y="0">L</tspan>
+        <tspan class="cls-2" x="34.69" y="0" xml:space="preserve"> READ</tspan>
+    </text>
+</svg>
