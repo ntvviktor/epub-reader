@@ -6,3 +6,4 @@ The purpose of this project is to make and epub become
 more friendly on the web by making it like reading a document.
 
 Inspiration from [altmshfkgudtjr](https://github.com/altmshfkgudtjr)
+[View the demo here](https://epub-reader-iota.vercel.app/)
