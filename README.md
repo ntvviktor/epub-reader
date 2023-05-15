@@ -5,4 +5,4 @@ epubjs library.
 The purpose of this project is to make and epub become 
 more friendly on the web by making it like reading a document.
 
-Credit to [altmshfkgudtjr](https://github.com/altmshfkgudtjr) source code
+Credit to [altmshfkgudtjr](https://github.com/altmshfkgudtjr)
