@@ -1,15 +1,31 @@
 import Head from "next/head";
-import Navigation from "@/components/navigation";
-import {useContext} from "react";
+import {useContext, useEffect} from "react";
 import {UserContext} from "@/lib/context";
 import { Box, Text } from "@chakra-ui/react";
 import Image from "next/image";
 import Upload from "@/components/upload";
 import Enter from "@/components/enter";
 import Logo from 'public/icons/logo.svg'
+import { useRouter } from "next/router";
 
 export default function Home() {
+    const router = useRouter();
     const {user} = useContext(UserContext);
+    useEffect(() => {
+      try{
+
+        var computedStyle = window.getComputedStyle 
+        if (computedStyle == null){
+          throw(computedStyle);
+        }
+      }catch(error){
+        console.log(error);
+      }
+      // window.onpopstate = () =>{
+      //   router.reload();  
+      // }
+    }, []);
+
     return (
         <>
             <Head>

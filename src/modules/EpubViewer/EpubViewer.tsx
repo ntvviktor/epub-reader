@@ -189,13 +189,12 @@ const EpubViewer = (
         const node = ref.current;
         if (!node) return;
         node.innerHTML = '';
-
-
         book.ready.then(function () {
             if (!mounted) return;
 
             if (book.spine) {
                 const loc = book.rendition?.location?.start?.cfi;
+
                 const rendition_ = book.renderTo(node, {
                     width: '100%',
                     height: '100%',
